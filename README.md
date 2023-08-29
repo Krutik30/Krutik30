@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Krutik</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -23,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agherakrutik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/agherakrutik" height="30" width="40" /></a>
+<a href="https://twitter.com/agherakrutik" target="blank"><i class="fa fa-twitter"></i></a>
 <a href="https://www.linkedin.com/in/krutik-aghera-959a5b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krutik-aghera-959a5b228/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21841623/krutik-aghera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21841623/krutik-aghera" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aghera_krutik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aghera_krutik/" height="30" width="40" /></a>
