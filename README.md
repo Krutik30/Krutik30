@@ -1,4 +1,4 @@
-# Hi there, I'm Krutik Patel! 👋
+# Hi there, I'm Krutik Aghera! 👋
 
 I'm a Full-Stack Developer based in San Francisco. Welcome to my GitHub profile!
 
